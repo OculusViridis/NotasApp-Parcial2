@@ -1,0 +1,12 @@
+# Ignorar dependencias de Node
+backend/node_modules/
+
+# Ignorar archivos compilados y locales de Android Studio
+NotasApp/.gradle/
+NotasApp/build/
+NotasApp/app/build/
+NotasApp/local.properties
+NotasApp/.idea/
+*.iml
+*.apk
+*.aab
